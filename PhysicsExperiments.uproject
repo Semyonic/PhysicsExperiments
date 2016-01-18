@@ -3,6 +3,15 @@
 	"EngineAssociation": "4.10",
 	"Category": "",
 	"Description": "",
+<<<<<<< HEAD
+=======
+	"Plugins": [
+		{
+			"Name": "Substance",
+			"Enabled": true
+		}
+	],
+>>>>>>> 24ea18bcb9f104524303baf6419a7857f7c3dbb8
 	"TargetPlatforms": [
 		"LinuxNoEditor",
 		"MacNoEditor",
